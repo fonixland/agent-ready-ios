@@ -140,6 +140,11 @@ templates/
 Skills are plain directories with a `SKILL.md`. Copy the ones you want into your
 project's skills directory, or point your agent at this repo.
 
+The tool this method leans on lives in its own repository:
+**[objc-atlas](https://github.com/fonixland/objc-atlas)**. Install it first —
+without it, steps 1, 3 and 4 above are advice rather than something an agent can
+actually do.
+
 ## Honest limits
 
 - The skills encode judgment, not guarantees. They make the right steps the
