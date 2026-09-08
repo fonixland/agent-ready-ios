@@ -155,5 +155,5 @@ project's skills directory, or point your agent at this repo.
 
 MIT © Bill Weakley
 
-I do this work for clients as [Bill Weakley LLC](mailto:mc_fonix@mac.com) —
+I do this work for clients as [Bill Weakley LLC](mailto:bill@billweakley.com) —
 legacy Objective-C modernization, and making existing iOS codebases agent-ready.
