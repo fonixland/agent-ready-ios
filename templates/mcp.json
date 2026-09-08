@@ -1,0 +1,16 @@
+{
+  "_comment": [
+    "MCP wiring for a legacy iOS project. Copy into your client's config",
+    "(for Claude Code: .mcp.json at the project root, or `claude mcp add`).",
+    "",
+    "objc-atlas is headless: it needs no running Xcode, so this configuration",
+    "also works over SSH and in CI. Install it first — see",
+    "https://github.com/fonixland/objc-atlas"
+  ],
+  "mcpServers": {
+    "objc-atlas": {
+      "command": "objc-atlas",
+      "args": []
+    }
+  }
+}
